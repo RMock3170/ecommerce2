@@ -1,0 +1,9 @@
+img{
+   height: 100px;
+
+}
+body{
+    background: url(../images/image2.jpg);
+    background-size: cover;
+}
+

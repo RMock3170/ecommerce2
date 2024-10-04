@@ -1,0 +1,1 @@
+My website is based on a very simple beginning TV seller website. The website sells all sorts of TVs from vintage box tvs to that of outlandish futuristic tvs. 
